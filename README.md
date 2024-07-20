@@ -51,11 +51,15 @@ Contributions are welcome! If you have any suggestions or improvements please op
 
 Technologies used in the project:
 
-*   **JavaScript **:
-       Core programming language for implementing interactive features.
-*   #D3.js:
-       Library for creating dynamic interactive data visualizations in web browsers.
-*   #HTML:
-       Markup and styling languages for structuring and designing the web application
-*   #CSS:
-       Markup and styling languages for structuring and designing the web application
+### JavaScript
+Core programming language for implementing interactive features.
+
+### D3.js
+Library for creating dynamic interactive data visualizations in web browsers.
+
+### HTML
+Markup language for structuring the web application.
+
+### CSS
+Styling language for designing the web application.
+
