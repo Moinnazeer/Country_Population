@@ -15,15 +15,15 @@
 Here're some of the project's best features:
 
 *   # Population Data:
-*   Access up-to-date population statistics for countries worldwide.
+       Access up-to-date population statistics for countries worldwide.
 *   # Visualizations:
-*   Interactive charts and graphs to visualize population trends over time.
+       Interactive charts and graphs to visualize population trends over time.
 *   # Search Functionality:
-*   Easily search for specific countries and view their population data.
-*   #Data Sources:
-*   Reliable data sourced from reputable organizations like the United Nations and World Bank.
+       Easily search for specific countries and view their population data.
+*   # Data Sources:
+       Reliable data sourced from reputable organizations like the United Nations and World Bank.
 *   #User-Friendly Interface:
-*   Simple and intuitive interface for easy navigation and data exploration.
+       Simple and intuitive interface for easy navigation and data exploration.
 
 <h2>🛠️ Installation Steps:</h2>
 
